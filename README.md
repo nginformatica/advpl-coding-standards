@@ -43,11 +43,11 @@ Novas funções devem ser desenvolvidas considerando as boas práticas listadas, e 
 
 - Nomes de variáveis locais devem ser em **lowerCamelCase** (exemplos: `cName`, `nAge`)
 
-- Nomes de funções em notação húngara devem usar **lowerCamelCase** (exemplo: `aAdd`)
+- Nomes de funções e métodos em notação húngara devem usar **lowerCamelCase** (exemplo: `aAdd`)
 
 - Use as variáveis com nomes iguais em tamanho e caixa (não faça `thisIsMyVari` e `THISISMYVARI`)
 
-- Nomes de funções sem notação húngara devem usar **UpperCamelCase** (exemplo: `RetSqlName`)
+- Nomes de funções e métodos sem notação húngara devem usar **UpperCamelCase** (exemplo: `RetSqlName`)
 
 - Diretivas do pré-processador (#define < include >) devem referenciar a include com a mesma capitulação do arquivo físico, preferencialmente letras minúsculas.
 
