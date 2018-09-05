@@ -37,7 +37,7 @@ Novas funções devem ser desenvolvidas considerando as boas práticas listadas, e 
 
 - Palavras-chave da linguagem devem usar **UpperCamelCase** (exemplos: `If`, `EndIf`, `While`)
 
-- Ao terminar uma instrução `While` ou `Do While`, prefira `EndDo` ao invés de somente `End`
+- Ao terminar uma instrução `While` ou `Do While`, prefira `End` e `EndDo` respectivamente.
 
 - Ao terminar uma instrução `For`, prefira `Next <variable>` ao invés de somente `Next`
 
